@@ -1,0 +1,3 @@
+C:/Users/irodr/OneDrive/Documents/GitHub2/Laboratorio1/cmake-build-debug/CMakeFiles/Laboratorio1.dir
+C:/Users/irodr/OneDrive/Documents/GitHub2/Laboratorio1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/irodr/OneDrive/Documents/GitHub2/Laboratorio1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
